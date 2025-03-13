@@ -7,7 +7,7 @@ Bu proje, araç plakalarındaki karakterleri algılamak ve tanımak için bir op
 Veri seti, Google Drive'da aşağıdaki dizinlerde saklanmaktadır:
 - **Görüntüler**: `/content/drive/MyDrive/Plate_System_trOCR/OCR_LP/LP-characters/images`
 - **Anotasyonlar**: `/content/drive/MyDrive/Plate_System_trOCR/OCR_LP/LP-characters/annotations`
-- **[DataSet İndirme Linki]([https://github.com/<kullanıcı-adınız>/<depo-adınız>](https://drive.google.com/drive/folders/19Hc2pLio_kjzAOcnI2R2kb5uvUa7iuyQ?usp=drive_link))**
+- [DataSet İndirme Linki]([https://github.com/<kullanıcı-adınız>/<depo-adınız>](https://drive.google.com/drive/folders/19Hc2pLio_kjzAOcnI2R2kb5uvUa7iuyQ?usp=drive_link)
 
 Her plaka görüntüsü için bir XML anotasyon dosyası bulunur ve bu dosyalar plaka üzerindeki karakterleri tanımlar.
 
